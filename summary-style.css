@@ -1,0 +1,27 @@
+table {
+  margin-right: auto;
+  border-collapse: collapse;
+  font-family: sans;
+  font-size: 200%;
+}
+
+th, td {
+  border: 1px solid #aaa;
+  text-align: center;
+}
+
+th { font-size: 40%; }
+td:nth-child(1) { font-size: 50%; }
+span { font-family: "EPSON Kyokashotai M"; }
+span.c { font-family: "STKaiti"; }
+span.e { background-color: #aff; }
+span.j { background-color: #faf; }
+span.n { background-color: #aaa; }
+span.h { background-color: black; color: #ffa; }
+
+#intro-div {
+  background-color: #EFE;
+  padding: 0.2em 1em;
+  margin: 0.5em;
+}
+#unused-div { font-size: 200%; }
